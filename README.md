@@ -1,11 +1,14 @@
 # Update-Notes
 0.1   
-added:  Gun  
-        Enemy
-        Bullet Tracers
+added:   
+	a Gun  
+        Enemies  
+        Enemy Spawners  
+        Bullet Tracers  
+You can now exit the game with "esc"  
         
-
 0.0  
-added:  Movement  
+added:  
+        Movement  
         Jump   
         Platform  
